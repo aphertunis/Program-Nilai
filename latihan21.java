@@ -1,3 +1,8 @@
+//Nama      : Nur Riskon Abdan Syakuro
+//  NIM       : 23176031
+//  Prodi     : Sistem Informasi
+//  Deskripsi : Program ini untuk menghitung rata-rata nilai mahasiswa dari jumlah banyaknya mahasiswa
+
 import java.util.Scanner;
 
 public class latihan21 {
